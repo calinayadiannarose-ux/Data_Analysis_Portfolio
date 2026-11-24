@@ -6,7 +6,7 @@
 
 Hi, my name is Dianna. I'm a responsible and motivated student eager to apply my knowledge in the workplace. I have excellent technical skills and the ability to handle difficult work. I'm an open and positive communicator who takes a calm, level-headed approach to managing routine needs and meeting unique challenges.
 
-I'm a hardworking team member with strong customer service, multitasking, and organizational skills, committed to providing each customer with a positive and memorable experience. I recently graduated from Otahuhu College and obtained the Data Analyst certification from Mission Ready HQ (August 2024). My technical skills include Microsoft Excel, Power BI, SQL, Python, Pandas, and Microsoft Fabric, and I speak English and Tagalog. I'm looking for entry-level opportunities to broaden my skills while also contributing to the company's growth.
+I'm a hardworking team member with strong customer service, multitasking, and organizational skills, committed to providing each customer with a positive and memorable experience. I recently graduated from Otahuhu College and obtained the Data Analyst certification from Mission Ready HQ (August 2024). My technical skills include Microsoft Excel, Power BI, SQL, Python, Pandas, and Microsoft Fabric, and I speak English. I'm looking for entry-level opportunities to broaden my skills while also contributing to the company's growth.
 
 My CV in [pdf](https://github.com/calinayadiannarose-ux/Data_Analysis_Portfolio/blob/main/Dianna-Calinaya-CV.pdf).
 
