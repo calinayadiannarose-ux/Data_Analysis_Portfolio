@@ -2,13 +2,14 @@
 
 ## About
 
-Hi, I'm Dianna! I'm a responsible and motivated student ready to apply my education in the workplace. I offer excellent technical abilities and the ability to handle challenging work. I'm an open and positive communicator with a calm, level-headed approach to managing routine needs and meeting special challenges.
+Hi, my name is Dianna. I'm a responsible and motivated student eager to apply my knowledge in the workplace. I have excellent technical skills and the ability to handle difficult work. I'm an open and positive communicator who takes a calm, level-headed approach to managing routine needs and meeting unique challenges.
 
-I'm a hardworking team member with customer service, multitasking and organisational skills, and I'm devoted to giving every customer a positive and memorable experience. I recently graduated from Otahuhu College and completed the Data Analyst qualification with Mission Ready HQ (August 2024). I'm seeking entry-level opportunities to expand my skills while helping the company grow.
+I'm a hardworking team member with strong customer service, multitasking, and organizational skills who is committed to providing each customer with a positive and memorable experience. I recently graduated from Otahuhu College and obtained the Data Analyst certification from Mission Ready HQ (August 2024). I'm looking for entry-level opportunities to broaden my skills while also contributing to the company's growth.
 
 My CV in [pdf](Dianna-Calinaya-CV.pdf).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository for displaying skills, sharing projects, and tracking my progress in Data Analytics / Data Science-related topics.
+
 
 ## Table of Contents
 
